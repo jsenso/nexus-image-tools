@@ -1,0 +1,1 @@
+This Drupal module is part of the Nexus framework. Implemented in Scientia, and is used for image annotation. It was created by Sandor Dominguez, Amed Leiva and Jose A. Senso
